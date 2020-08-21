@@ -1,8 +1,5 @@
 <html>
-<head>
-        <link rel="stylesheet" href="stylesheet.css">
-    </head>
-    <body>
+<body>
         <h2>welcome to blu's php playground</h2>
         <h3>a dumping ground for weird projects</h3>
 </body>
